@@ -1,0 +1,66 @@
+/*
+Author     : Pathik Gandhi
+Author URI : www.pathikgandhi.info
+Description: Single Page Portfolio HTML Theme.
+Version    : 1.0
+*/
+
+/*
+TABLE OF CONTENTS
+
+PART 1: Fonts
+
+        1.1)  Harlow Solid Italic
+        1.2) Satisfy Regular
+        1.3) Babas Neue
+*/
+
+/***************************FONTS***************************************/
+
+/* 1.1 - Harlow Solid Italic */
+@font-face {
+    font-family: 'harlow';
+    src: url('../fonts/harlow/harlowsi-webfont.eot');
+    src: url('../fonts/harlow/harlowsi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/harlow/harlowsi-webfont.woff') format('woff'),
+         url('../fonts/harlow/harlowsi-webfont.ttf') format('truetype'),
+         url('../fonts/harlow/harlowsi-webfont.svg#harlow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 1.2 - Satisfy Regular */
+@font-face {
+    font-family: 'satisfy';
+    src: url('../fonts/satisfy/satisfy-regular-webfont.eot');
+    src: url('../fonts/satisfy/satisfy-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/satisfy/satisfy-regular-webfont.woff') format('woff'),
+         url('../fonts/satisfy/satisfy-regular-webfont.ttf') format('truetype'),
+         url('../fonts/satisfy/satisfy-regular-webfont.svg#satisfy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 1.3 - Babas Neue */
+@font-face {
+    font-family: 'babas';
+    src: url('../fonts/babas/bebasneue-webfont.eot');
+    src: url('../fonts/babas/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/babas/bebasneue-webfont.woff') format('woff'),
+         url('../fonts/babas/bebasneue-webfont.ttf') format('truetype'),
+         url('../fonts/babas/bebasneue-webfont.svg#babas') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 1.4 - Helvitica Neue */
+@font-face {
+    font-family: 'helvitica';
+    src: url('../fonts/helvitica/helvetica-bold-webfont.eot');
+    src: url('../fonts/helvitica/helvetica-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helvitica/helvetica-bold-webfont.woff') format('woff'),
+         url('../fonts/helvitica/helvetica-bold-webfont.ttf') format('truetype'),
+         url('../fonts/helvitica/helvetica-bold-webfont.svg#helvitica') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
